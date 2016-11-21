@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+  <remote  name="wingtech"
+           fetch="https://github.com/Lenovo-Kraft-A6000" />
+<manifest>
+  <project name="Lenovo-Kraft-A6000/android_kernel_lenovo_msm8916" path="kernel/lenovo/msm8916" remote="wingtech" revision="cm-14"/>
+  <project name="Lenovo-Kraft-A6000/android_device_wingtech_msm8916-common" path="device/wingtech/msm8916-common" remote="wingtech" revision="cm-13.0"/>
+  <project name="Lenovo-Kraft-A6000/android_device_wingtech_wt86518" path="device/wingtech/wt86518" remote="wingtech" revision="cm-14.1"/>
+</manifest>
